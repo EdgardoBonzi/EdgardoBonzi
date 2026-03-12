@@ -47,3 +47,25 @@ Throughout my academic career I have taught undergraduate and graduate courses i
 - Numerical methods  
 
 Currently, I continue teaching as an independent lecturer in postgraduate programs, master's degrees, and specialized diploma courses, while remaining actively involved in scientific research at the Faculty of Mathematics, Astronomy, Physics and Computing (FaMAF), National University of Córdoba.
+
+## Selected Publications
+
+1. Bonzi, E. V., Barrea, R. A.  
+   *L X-ray fluorescence cross sections for rare earths at 10 keV and 11 keV with synchrotron radiation.*  
+   Nuclear Instruments and Methods in Physics Research B 179 (2001) 1–10.
+
+2. Bonzi, E. V., Mainardi, R. T.  
+   *A technique for accelerating Monte Carlo simulations of electron avalanches in gaseous detectors.*  
+   Journal of Physics D: Applied Physics 32 (1999) 440–444.
+
+3. Grad, G. B., Bonzi, E. V.  
+   *First principles study of the binding energies of pure metals using the FP-LAPW method.*  
+   Journal of Electron Spectroscopy and Related Phenomena 189 (2013) 45–50.
+
+4. Torres-Díaz, J., Grad, G. B., Bonzi, E. V.  
+   *Measurement of linear accelerator spectra reconstructed from percentage depth dose curves by neural networks.*  
+   Physica Medica 96 (2022) 81–89.
+
+5. Torres-Díaz, J., Grad, G. B., Gómez Ávila, J., Vega, L., Bonzi, E. V.  
+   *Electron spectra measurements in linear accelerators via neural network reconstruction from percentage depth dose (PDD) data.*  
+   Applied Radiation and Isotopes (2026, in press).
