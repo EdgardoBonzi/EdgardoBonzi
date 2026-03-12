@@ -1,5 +1,5 @@
 ## Edgardo Bonzi
-## Research Interests
+### Research Interests
 
 My research focuses on computational and experimental physics, particularly on the interaction of radiation with matter and the development of numerical modeling techniques for the analysis and simulation of physical processes.
 
@@ -18,7 +18,7 @@ Current research interests include:
 - Machine learning and neural networks applied to physics problems  
 - Computational methods for radiation detection and accelerator physics  
 
-### Research Areas
+#### Research Areas
 
 - Radiation physics  
 - X-ray spectroscopy and atomic parameters  
@@ -27,7 +27,7 @@ Current research interests include:
 - Computational physics  
 - Machine learning applications in physics  
 
-### Programming
+#### Programming
 
 - Fortran  
 - Python  
@@ -46,4 +46,4 @@ Throughout my academic career I have taught undergraduate and graduate courses i
 - Scientific computing  
 - Numerical methods  
 
-Currently, I continue teaching as an independent lecturer in postgraduate programs, master's degrees, and specialized diploma courses.
+Currently, I continue teaching as an independent lecturer in postgraduate programs, master's degrees, and specialized diploma courses, while remaining actively involved in scientific research at the Faculty of Mathematics, Astronomy, Physics and Computing (FaMAF), National University of Córdoba.
