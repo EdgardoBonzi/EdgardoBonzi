@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 ## Edgardo V. Bonzi
 
