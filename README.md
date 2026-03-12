@@ -1,4 +1,3 @@
-<!--
 ## Edgardo V. Bonzi
 
 Full Professor of Physics at the Faculty of Mathematics, Astronomy, Physics and Computing (FaMAF), National University of Cordoba (UNC), Argentina.
@@ -32,5 +31,3 @@ Professor at FaMAF (UNC), teaching undergraduate and graduate courses in:
 * Monte Carlo methods
 * Scientific computing
 * Numerical methods
-
--->
